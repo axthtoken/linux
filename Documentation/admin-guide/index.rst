@@ -19,6 +19,7 @@ etc.
 
    README
    devices
+   ahmia
 
    features
 
